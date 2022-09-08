@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently trying to learn **React**
 
-- 💬 Ask me about **C#, Unity, Javascript**
+- 💬 Ask me about **C#, Unity or game development in general, Javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
