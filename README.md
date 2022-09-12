@@ -10,10 +10,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Amenofisch#5368"/>Amenofisch#5368</a>
+<a target="blank"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Amenofisch#5368"/>Amenofisch#5368</a>
 </p>
 <p align="left">
-<a target="blank" href="https://www.nexusmods.com/users/84997298"><img align="center" src="https://raw.githubusercontent.com/github/explore/781dbc058383a2ee8259ebbab057292f16172d5e/topics/nexus-mods/nexus-mods.png" alt="Amenofisch" height="30" width="40" />Amenofisch</a>
+<a target="blank" href="https://www.nexusmods.com/users/84997298"><img align="center" src="https://raw.githubusercontent.com/github/explore/781dbc058383a2ee8259ebbab057292f16172d5e/topics/nexus-mods/nexus-mods.png" alt="Amenofisch" height="40" width="40" />Amenofisch</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
