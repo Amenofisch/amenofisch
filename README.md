@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">An amatuer C# and web developer from Germany</h3>
 
-- 🔭 I’m currently working on **multiple game modifications**
+- 🔭 I’m currently working on **React-Native Apps, IoT stuff**
 
-- 🌱 I’m currently trying to learn **React**
+- 🌱 I’m currently trying to learn **React-Native**
 
-- 💬 Ask me about **C#, Unity or game development in general, Javascript**
+- 💬 Ask me about **C#, Unity or game development in general, JavaScript, React**
 
 
 <h3 align="left">Connect with me:</h3>
