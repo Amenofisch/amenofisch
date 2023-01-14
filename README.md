@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">An amatuer C# and web developer from Germany</h3>
-<a target="blank" href="https://amenofisch.dev">Check out my website!</a>
+<a target="blank" align="center" href="https://amenofisch.dev">Check out my website!</a>
 
 
 - 🔭 I’m currently working on **React-Native Apps, IoT stuff**
