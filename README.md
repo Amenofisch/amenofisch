@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">An intermediate Web and Software developer from Germany</h3>
 
-- 🌱 I’m currently trying to learn **NextJs**
+- 🌱 I’m currently not learning anything special.
 
-- 💬 Ask me about **C#, Unity and game development in general, JavaScript, React, React Native and Hosting Stuff**
+- 💬 Ask me about **C#, Unity and game development in general, JavaScript, React, Typo3 and Hosting Stuff**
 
 
 <h3 align="left">Connect with me:</h3>
